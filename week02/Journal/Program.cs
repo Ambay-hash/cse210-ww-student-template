@@ -11,7 +11,6 @@ class Program
             "Who was the most interesting person I interacted with today?",
             "What was the best part of my day?",
             "What did l enjoyed today most",
-            "what was nice throgh the day",
             "What was the strongest emotion I felt today?",
             "Have l spend time with my family today?",
             "If l had one thing I could do over today, what would it be?"
